@@ -1,2 +1,0 @@
-# Boot
-Bot
